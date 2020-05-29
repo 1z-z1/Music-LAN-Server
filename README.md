@@ -15,7 +15,7 @@ The configurations I have put here are pretty slimmed down compared to others th
 
 The quick Arch Linux guide is more extensively documented as it is my method but in case anything ever happens I am including the second guide in case I have to ever install nginx from source to create a server.
 
-I did a lot of searching online to get this to work so hopefully you can get it to work too :) 
+I did a lot of searching online to get this to work and this guide is pretty dirty so hopefully you can get it to work too :) 
 
 Enjoy~
 
